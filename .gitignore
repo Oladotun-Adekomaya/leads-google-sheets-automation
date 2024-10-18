@@ -1,0 +1,13 @@
+sheets/
+__pycache__/
+credentials.json
+drivecredentials.json
+badlist.txt
+sheet_list
+token_drive_v3.pickle
+token.json
+drive.py
+test.py
+test2.py
+.env
+
